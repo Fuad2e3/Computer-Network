@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🌐 Campus Network Design & Simulation
 
 [![Platform | Cisco Packet Tracer](https://img.shields.io/badge/Platform-Packet%20Tracer-blue?style=for-the-badge&logo=cisco)](https://www.netacad.com/courses/packet-tracer)
@@ -5,6 +7,8 @@
 [![License | MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 **Empowering Connectivity through robust architecture and efficient routing.**
+
+</div>
 
 The **Campus Network** project is a comprehensive network infrastructure design developed using **Cisco Packet Tracer**. It simulates a modern university campus environment, focusing on scalability, security, and high-speed data transmission.
 
