@@ -41,27 +41,12 @@ The project files are organized to show the evolution of the network design:
 
 ---
 
-## 🛠️ Getting Started
-
-To explore or modify the network designs:
-
-1.  **Download Cisco Packet Tracer:** Ensure you have the latest version installed.
-2.  **Clone this Repository:**
-    ```bash
-    git clone https://github.com/fuadk/Computer-Network.git
-    ```
-3.  **Open Files:** Navigate to the `network-designs/` folder and open the `.pkt` files directly in Packet Tracer.
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Developed with ❤️ by Fuad**  
-*Developed by Softece*  
-*Computer Network | Green University of Bangladesh*
+**Developed ❤️ by Softece**
 
 </div>
